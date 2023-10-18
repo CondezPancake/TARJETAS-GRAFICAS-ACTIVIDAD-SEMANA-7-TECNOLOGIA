@@ -1,0 +1,39 @@
+header {
+    background-color: #F6F6F6;
+    color: #333333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #333333;
+    color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+}
+
+section {
+    background-color: #ECECEC;
+    color: #333333;
+    padding: 10px;
+    text-align: center;
+}
+
+aside {
+    background-color: #ECECEC;
+    color: #333333;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #333333;
+    color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+}
